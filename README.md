@@ -1,2 +1,2 @@
 # number-theory
-Some number theory projects.
+Some number theory projects I wrote in Google Colab.
